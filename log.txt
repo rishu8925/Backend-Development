@@ -1,0 +1,16 @@
+Server Running on http://localhost:5000
+GET /
+GET /add
+POST /add
+GET /
+GET /edit/1771560102760
+POST /update/1771560102760
+GET /
+Server Running on http://localhost:5000
+GET /
+GET /favicon.ico
+POST /delete/1771560102760
+GET /
+GET /edit/1771558566973
+POST /update/1771558566973
+GET /

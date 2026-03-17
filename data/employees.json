@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1771475782111",
+    "name": "Bhavya Mehrotra",
+    "profileImage": "https://www.svgrepo.com/show/446531/avatar.svg",
+    "gender": "Female",
+    "department": [
+      "HR"
+    ],
+    "basicSalary": "10000",
+    "joiningDate": "2026-02-19",
+    "notes": "m,bjkj"
+  },
+  {
+    "id": "1771557949656",
+    "name": "rishu",
+    "profileImage": "https://www.svgrepo.com/show/446531/avatar.svg",
+    "gender": "Female",
+    "department": [
+      "Engineer"
+    ],
+    "basicSalary": "40000",
+    "joiningDate": "2026-02-25",
+    "notes": "no"
+  },
+  {
+    "id": "1771557981137",
+    "name": "tamanna",
+    "profileImage": "https://www.svgrepo.com/show/446531/avatar.svg",
+    "gender": "Female",
+    "department": [
+      "Finance"
+    ],
+    "basicSalary": "10000",
+    "joiningDate": "2026-02-24",
+    "notes": "no"
+  },
+  {
+    "id": "1771558566973",
+    "name": "rishu upadhyay",
+    "profileImage": "https://www.svgrepo.com/show/446531/avatar.svg",
+    "gender": "Female",
+    "department": [
+      "HR",
+      "Sales",
+      "Finance",
+      "Engineer"
+    ],
+    "basicSalary": "50000",
+    "joiningDate": "2026-02-17",
+    "notes": "no \r\n"
+  }
+]
